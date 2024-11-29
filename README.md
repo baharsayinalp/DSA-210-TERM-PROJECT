@@ -22,7 +22,7 @@ The primary dataset for this project is my TikTok usage data, which I will direc
 My secondary dataset will be the measurement of the time I spend on GoodNotes app, which I use for studying. This database will provide information about my productivity levels daily. Comparing these two datasets will help me to see if my productivty is correlated with my Tiktok usage.
   
 # Plan
-1.**Data Collection**:  
+1. **Data Collection**:  
    - Export TikTok usage data in JSON or CSV format.  
    - Log productivity data from the GoodNotes app.  
 
