@@ -5,11 +5,11 @@ Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Ter
 I am Bahar Sayınalp (32296) and my project is about analyzing my TikTok usage data to uncover patterns and correlations;
 
 
-  -How time of the day affects my tiktok usage time.
+  -How the time of the day affects my tiktok usage time.
   
   -What kind of content I watch on tiktok.
   
-  -How are my productivity levels correlated with time spent on tiktok.
+  -How my productivity levels are correlated with time spent on tiktok.
 
 This project aims to identify trends and insights into how TikTok usage influences my daily habits and overall productivity.
 
@@ -17,9 +17,9 @@ This project aims to identify trends and insights into how TikTok usage influenc
 I use Tiktok often throughout the day. Therefore, I want to see how much it has an impact on my life.
 
 # Data Resources
-The primary dataset for this project is my TikTok usage data, which I will directly download it from the app. This data set includes timestamped activity logs, providing details about time spent on tiktok and which contents I engage with. If available, it will also include the number of likes, comments, shares and hashtag information about the videos I watch. 
+The primary dataset for this project is my TikTok usage data, which I will download directly from the app. This data set includes timestamped activity logs, providing details about the time spent on tiktok and which contents I engage with. If available, it will also include the number of likes, comments, shares and hashtag information about the videos I watch. 
 
-My secondary dataset will be the measurement of the time I spend on GoodNotes app, which I use for studying. This database will provide information about my productivity levels daily. Comparing these two datasets will help me to see if my productivty is correlated with my Tiktok usage.
+My secondary dataset will be measurements of the time I spend on GoodNotes app, which I use for studying. This database will provide information about my productivity levels daily. Comparing these two datasets will help me to see if my productivity is correlated with my Tiktok usage.
   
 # Plan
 1. **Data Collection**:  
