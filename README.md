@@ -2,7 +2,7 @@
 Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project.
 
 # Description
-I am Bahar Sayınalp (32296) and my project is about analyzing your TikTok usage data to uncover patterns and correlations;
+I am Bahar Sayınalp (32296) and my project is about analyzing my TikTok usage data to uncover patterns and correlations;
 
 
   -How time of the day effects my tiktok usage time.
@@ -11,29 +11,17 @@ I am Bahar Sayınalp (32296) and my project is about analyzing your TikTok usage
   
   -How is my productivity levels correlated with time spent on tiktok
 
+This project aims to identify trends and insights into how TikTok usage influences my daily habits and overall productivity.
+
 # Motivation
 I use tiktok often throughout the day. Therefore, I want to see how much it has an impact on my life.
 
 # Data Resources
-Primary Dataset: I will directly download the Tiktok Data from the app. It will include the videos I've watched and how long i've spent time on tiktok.
-
-Details:
-
-  Timestamped Activity Logs: Records of usage duration and interactions.
+The primary dataset for this project is my TikTok usage data, which I will directly download it from the app. This data set includes timestamed activity logs, providing details about time spent on tiktok and which contents I engage with. If available, it will also include the number of likes, comments, shares and hashtag information about the videos I watch. My secondary dataset will be the measurement of the time I spend on GoodNotes app, which I use for studying. This database will provide information about my productivity levels daily. Comparing these two datasets will help me to see if my productivty is correlated with my Tiktok usage.
   
-  Engagement Metrics: Likes, comments, shares (if included).
-  
-  Content Categories: Information about video types or hashtags (if available).
-  
-Secondary Dataset (Productivity): My productivity is based on how much time I spent on studying. I only study on GoodNotes app. I will compare the time I spend on GoodNotes with I spend on Tiktok in a day. 
-
 # Plan
-I am going to export the data from Tiktok app and I will convert JSON or CSV TikTok data into a usable format. Then, when neccessary, I will merge the data with secondary datasets. 
-
-I am gonna perform statistical analysis to find correlation between time of the day an time spent on tiktok; productivity levels and time spent on tiktok etc.
-
-EDA(Explanatory Data Analysis): I am going to use visualization to analyze the trends in daily and weekly TikTok usage. I am also going to use Metrics to calculate the total and average time spent on tiktok.
+For this project, I will begin by exporting my TikTok data in JSON or CSV format and logging my study time from the GoodNotes app. The Tiktok data will be cleaned and proccessed in order to access useful information for my analysis. When I reach the suitable measurements (timestamps, engagement, content type) I will merge the data with the productivity logs to do correlation analysis. My plan is to utilize Explanatory Data Analysis (EDA): I am going to use visualization such as histograms, heat maps etc. to analyze the trends in daily and weekly TikTok usage, as well as to see the correlation levels between productivity and tiktok usage. 
 
 # Expectation
-I will try to find similar patterns in usage and engagement on Tiktok
+I aim to find patterns in my Tiktok usage, including timestamps I use Tiktok the most and content preferences. I hope to decide whether Tiktok lowers my productivity levels. I hope to gain a clear insight and try to optimize my life according to the outcomes I am going to find due to these datasets.
 
